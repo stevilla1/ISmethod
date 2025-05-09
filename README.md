@@ -8,4 +8,4 @@ ORIGINAL DATASET
 In the current version, the original dataset is simulated using an asymmetric potential as defined in the reference paper. 
 For using an experimental dataset, replace the 'generate original dataset' section with the upload of the experimental dataset. 
 
-An example dataset is also providedgiven that can be visualized by opening it on Matlab and by executing the section at line 211
+For questions/comments please write to stefano.villa@ds.mpg.de
